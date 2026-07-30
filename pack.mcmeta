@@ -1,0 +1,28 @@
+{
+   "pack": {
+      "pack_format": 63,
+      "supported_formats": [13, 64],
+      "min_format": 13,
+      "max_format": 88,
+      "description": "\u00A79Gleamless 1.19.4 - 26.x \n\u00A7bBy: AlarkiusJay"
+}, 
+"overlays": {
+    "entries": [
+      { "directory": "overlay_1.19.4", "formats": [13] },
+      { "directory": "overlay_1.20", "formats": [15] },
+      { "directory": "overlay_1.20.2", "formats": [18] },
+      { "directory": "overlay_1.20.3-4", "formats": [22] },
+      { "directory": "overlay_1.20.5-6", "formats": [32] },
+      { "directory": "overlay_1.21.0-1", "formats": [34] },
+      { "directory": "overlay_1.21.2-3", "formats": [42] },
+      { "directory": "overlay_1.21.4", "formats": [46] },
+      { "directory": "overlay_1.21.5", "formats": [55] },
+      { "directory": "overlay_1.21.6", "formats": [63] },
+      { "directory": "overlay_1.21.7-8", "formats": [64] },
+      { "directory": "overlay_1.21.9-10", "formats": [65, 66, 67, 68, 69] },
+      { "directory": "overlay_1.21.11", "formats": [70, 71, 72, 73, 74, 75] },
+      { "directory": "overlay_1.26.1", "formats": [76, 77, 78, 79, 80, 81, 82, 83, 84] },
+      { "directory": "overlay_1.26.2", "formats": [85, 86, 87, 88] }
+    ]
+  }
+}

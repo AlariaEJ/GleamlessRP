@@ -1,6 +1,20 @@
+<img width="400" height="400" alt="pack" src="https://github.com/user-attachments/assets/571a2b9e-6109-435c-960e-54ff39b071e4" />
+
 # GleamlessRP
 
-AlarkiusJay's Gleamless Glass Texture Pack — a lightweight overlay resource pack that reworks glass, stained glass, glass panes, and tinted glass with optional [OptiFine CTM](https://www.optifine.net/home) support.
+Gleamless (1.19+)
+
+This pack aims to make glass look cleaner and smooth. All the stained glass are borderless except the main glass texture.
+
+For the main glass texture, it's a 64x64 size, because I wanted the border lines to be thin, not thick! (please try to keep this in mind)
+
+(the other glass textures are 16x16)
+
+This has Optifine's Connected Textures Support! Shaders are optional for using this resource.
+
+If you like this pack or want to see some improvements, don't hesitate to leave some comments on our curseforge page :)
+
+A lightweight overlay resource pack that reworks glass, stained glass, glass panes, and tinted glass with optional [OptiFine CTM](https://www.optifine.net/home) support.
 
 ## Notice
 

@@ -19,7 +19,7 @@ A lightweight overlay resource pack that reworks glass, stained glass, glass pan
 ## Notice
 
 You can leave feedback and comments here in this repo! 
-[Also on Modrint](https://modrinth.com/resourcepack/gleamless-glass) 
+[Also on Modrinth](https://modrinth.com/resourcepack/gleamless-glass) 
 
 ## Version support
 

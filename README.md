@@ -12,7 +12,7 @@ For the main glass texture, it's a 64x64 size, because I wanted the border lines
 
 This has Optifine's Connected Textures Support! Shaders are optional for using this resource.
 
-If you like this pack or want to see some improvements, don't hesitate to leave some comments on our curseforge page :)
+If you like this pack or want to see some improvements, don't hesitate to leave some comments here on our repo or on our Modrinth page :)
 
 A lightweight overlay resource pack that reworks glass, stained glass, glass panes, and tinted glass with optional [OptiFine CTM](https://www.optifine.net/home) support.
 

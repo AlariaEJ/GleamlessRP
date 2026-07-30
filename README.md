@@ -32,6 +32,10 @@ Compatible from **Minecraft 1.19** through the current latest release (**26.2**)
 
 Minecraft automatically loads the correct overlay for your game version — just drop the pack into your `resourcepacks` folder as-is.
 
+## Downloads
+
+Want just one version instead of the full multi-version pack? Check the [`releases/`](./releases) folder for standalone, single-version zips you can grab directly from GitHub.
+
 ## Credits
 
 — [@AlarkiusJay](https://github.com/AlariaEJ)

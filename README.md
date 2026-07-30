@@ -1,8 +1,8 @@
-<img width="400" height="400" alt="pack" src="https://github.com/user-attachments/assets/571a2b9e-6109-435c-960e-54ff39b071e4" />
+<img width="1367" height="698" alt="srcnsht-png-03-46" src="https://github.com/user-attachments/assets/7c034af6-7ee1-4335-9a92-93dde97c8768" />
 
 # GleamlessRP
 
-Gleamless (1.19+)
+Gleamless Glass (1.19+)
 
 This pack aims to make glass look cleaner and smooth. All the stained glass are borderless except the main glass texture.
 
@@ -18,7 +18,7 @@ A lightweight overlay resource pack that reworks glass, stained glass, glass pan
 
 ## Notice
 
-This pack is meant as an overlay for the **hotbar only**. Main menu and escape menu textures are included as a bonus, but the pack is primarily intended to be layered on top of other resource packs — place it **highest in your resource pack list** for it to work correctly.
+You can leave feedback and comments here in this repo! 
 
 ## Version support
 

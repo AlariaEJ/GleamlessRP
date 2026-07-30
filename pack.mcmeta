@@ -1,13 +1,15 @@
 {
    "pack": {
       "pack_format": 63,
-      "supported_formats": [13, 64],
-      "min_format": 13,
+      "supported_formats": [9, 64],
+      "min_format": 9,
       "max_format": 88,
-      "description": "\u00A79Gleamless 1.19.4 - 26.x \n\u00A7bBy: AlarkiusJay"
+      "description": "\u00A79Gleamless 1.19 - 26.x \n\u00A7bBy: AlarkiusJay"
 }, 
 "overlays": {
     "entries": [
+      { "directory": "overlay_1.19", "formats": [9] },
+      { "directory": "overlay_1.19.3", "formats": [12] },
       { "directory": "overlay_1.19.4", "formats": [13] },
       { "directory": "overlay_1.20", "formats": [15] },
       { "directory": "overlay_1.20.2", "formats": [18] },

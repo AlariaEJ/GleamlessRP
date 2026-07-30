@@ -8,10 +8,12 @@ This pack is meant as an overlay for the **hotbar only**. Main menu and escape m
 
 ## Version support
 
-Compatible from **Minecraft 1.19.4** through the current latest release (**26.2**), via the [pack.mcmeta overlay system](https://minecraft.wiki/w/Pack_format):
+Compatible from **Minecraft 1.19** through the current latest release (**26.2**), via the [pack.mcmeta overlay system](https://minecraft.wiki/w/Pack_format):
 
 | Minecraft version(s) | Resource pack format |
 |---|---|
+| 1.19–1.19.2 | 9 |
+| 1.19.3 | 12 |
 | 1.19.4 | 13 |
 | 1.20–1.20.1 | 15 |
 | 1.20.2 | 18 |
